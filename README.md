@@ -23,21 +23,14 @@
 
 
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souhamejri&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=souhamejri&theme=tokyonight" width="47%" />
-</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souhamejri&theme=gruvbox&row=1&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=souha-mejri&theme=gruvbox&row=1&no-bg=true" />
 </p>
 
 ---
@@ -50,8 +43,4 @@
   <a href="https://github.com/souhamejri"><img src="https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
 
-### ✨ Quote
-
-> *“Creativity is intelligence having fun.”* – Albert Einstein
