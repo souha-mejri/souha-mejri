@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hello! I'm Souha Mejri
 
-<!--
-**souha-mejri/souha-mejri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+💡 Passionate about innovation, smart city solutions, and UX/UI design  
+🌐 Building apps with JavaFX, Symfony, Firebase & FlutterFlow  
+🎨 Creative mind with Photoshop and design experience
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, Python, HTML, CSS, JavaScript
+- **Frameworks:** Symfony, FlutterFlow
+- **Databases:** MySQL, Firebase, Oracle
+- **Cloud & BI:** Power BI, Power Apps, Power Automate, SharePoint
